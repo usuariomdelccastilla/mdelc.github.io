@@ -2,7 +2,7 @@ var winner = Math.floor(Math.random() * 9)
 
 var scratch = Math.floor(Math.random() * 9)
 
-
+//comentar
 if (winner === scratch) {
     scratch = Math.floor(Math.random() * 9)
 }
